@@ -1,4 +1,4 @@
-# Andrew Ng's Machine Learning Course
+# Machine Learning by Stanford University | Coursera
 The resources I am using to learn Machine Learning | My Notes | Extra links | Recommended books
 
 1. (How to start learning ML)[https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/]
