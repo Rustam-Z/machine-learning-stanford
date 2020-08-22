@@ -1,4 +1,4 @@
-# Machine Learning by Stanford University | Coursera
+# Machine Learning by Stanford University | [Coursera](https://www.coursera.org/learn/machine-learning)
 The resources I am using to learn Machine Learning | My Notes | Extra links | Recommended books
 
 ## Resources
