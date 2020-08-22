@@ -1,1 +1,1 @@
-# machine-learning-andrewng
+# Machine Learning by Stanford University | Coursera
