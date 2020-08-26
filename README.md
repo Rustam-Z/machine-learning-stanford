@@ -10,3 +10,8 @@ DAY-1: 19.08.2020
 4. Mathematics for Machine Learning (2020) | Authors: by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
 5. The Elements Of Statistical Learning : Data Mining, Inference and Prediction 
 6. [Recommended ML books by ProgLib](https://vk.com/wall-54530371_102437)
+
+## Agenda
+- Week 1 - Introduction, Linear Regression, Const Function, Gradient Descent, Linear Algebra (Matrix & Vector)
+- Week 2 - Linear Regression with Multiple Variables, Octave PL Turorial
+- Week 3 - Logistic Regression, Regularization
