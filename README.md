@@ -3,7 +3,7 @@ The resources I am using to learn Machine Learning | My Notes | Extra links | Re
 
 DAY-1: 19.08.2020
 
-## Resources:
+## Resources
 1. [How to start learning ML](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/)
 2. [TOP courses for ML](https://www.learndatasci.com/best-machine-learning-courses) | [TOP courses in Rus](https://pythonist.ru/samye-luchshie-resursy-dlya-izucheniya-ml-i-ai/)
 3. Machine Learning For Absolute Beginners (2018) | Author: Oliver Theobald
