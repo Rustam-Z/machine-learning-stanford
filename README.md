@@ -8,6 +8,7 @@ DAY-1: 19.08.2020
 - Week 2 - Linear Regression with Multiple Variables, Octave Turorial
 - Week 3 - Logistic Regression, Optimization, Regularization
 - Week 4 - Neural Networks, Model Representations for Neural Networks
+- Week 5 - Neural Networks Learning, Cost Function, Backprop, Forwardprop
 
 ## Resources:
 1. [How to start learning ML](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/)
