@@ -1,0 +1,2 @@
+- https://rstudio-pubs-static.s3.amazonaws.com/445032_4c0686415d1d4761823a1a7b671aec06.html
+- https://www.apdaga.com/2019/11/coursera-machine-learning-week-6-quiz-advice-for-applying-machine-learning.html
