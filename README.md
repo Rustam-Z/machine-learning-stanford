@@ -10,8 +10,11 @@ DAY-1: 19.08.2020
 - Week 4 - Neural Networks, Model Representations for Neural Networks
 - Week 5 - Neural Networks Learning, Cost Function, Backprop, Forwardprop
 - Week 6 - Bias Vs. Variance
-- Week 7 - SVM
+- Week 7 - SVM: Support Vector Machines
 - Week 8 - Unsurepvised Learning: Clustering
+- Week 9 - Anomaly Detection, Recommender Systems
+- Week 10 - Large Scale Machine Learning
+- Week 11 - Application Examples: Photo OCR
 
 ## Resources:
 1. [How to start learning ML](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/)
