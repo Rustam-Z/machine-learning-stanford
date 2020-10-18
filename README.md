@@ -1,7 +1,8 @@
 # Machine Learning by Stanford University | [Coursera](https://www.coursera.org/learn/machine-learning)
-The resources I am using to learn Machine Learning | My Notes | References | Books
+My path to learning ML | DAY-1: 19.08.2020
 
-DAY-1: 19.08.2020
+- https://telegra.ph/What-REALLY-is-Data-Science-09-21
+- https://telegra.ph/Not-Understanding-the-Concepts-of-ML-10-12
 
 ## Agenda:
 - Week 1 - Introduction, Linear Regression, Const Function, Gradient Descent, Linear Algebra (Matrix & Vector)
