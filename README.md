@@ -1,6 +1,6 @@
-# [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)
+# [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)🚀
 
-My path to learning ML | Rustam_Z 🚀 | DAY-1: 19.08.2020
+My path to learning ML | Rustam_Z🚀 | DAY-1: 19.08.2020
 
 ## Coursera Certificate
 <a href="https://coursera.org/share/cd414086f69f439c2e9f19d2b23403cc">
