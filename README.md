@@ -1,13 +1,11 @@
 # [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)🚀
 
-My path to learning ML | Rustam-Z🚀 | Date: 19.08.2020
+Rustam-Z 🚀 | Date: 19.08.2020
 
 ## Coursera Certificate
 <a href="https://coursera.org/share/cd414086f69f439c2e9f19d2b23403cc">
     <img src="coursera-certificate.png" width=500>
 </a>
-
-Hello, I am writing this message after a long time. I am studying Deep Learning right now. Yes, of course, learning machine learning isn't easy. A great piece of advice I can give you is to focus on one thing, be patient, and learn with enthusiasm. *Focus on just one thing! Work hard, work smart!*
 
 ## [Syllabus](https://www.coursera.org/learn/machine-learning/home/info)
 - Week ##1 
@@ -84,7 +82,6 @@ Hello, I am writing this message after a long time. I am studying Deep Learning 
     - What Part of the Pipeline to Work on Next
 
 ## Resources
-- [Machine Learning Stanford Course](https://www.coursera.org/learn/machine-learning/resources/zVvo7)
 - [How to start learning ML](https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/)
 - [Top Machine Learning Courses](https://www.learndatasci.com/best-machine-learning-courses)
 - Book: Machine Learning For Absolute Beginners (2018) | Author: Oliver Theobald
