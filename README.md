@@ -1,4 +1,4 @@
-# [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)🚀
+# [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning) 🚀
 
 Rustam-Z 🚀 | Date: 19.08.2020
 
@@ -6,6 +6,8 @@ Rustam-Z 🚀 | Date: 19.08.2020
 <a href="https://coursera.org/share/cd414086f69f439c2e9f19d2b23403cc">
     <img src="coursera-certificate.png" width=500>
 </a>
+
+https://coursera.org/share/cd414086f69f439c2e9f19d2b23403cc
 
 ## [Syllabus](https://www.coursera.org/learn/machine-learning/home/info)
 - Week ##1 
@@ -86,3 +88,4 @@ Rustam-Z 🚀 | Date: 19.08.2020
 - [Top Machine Learning Courses](https://www.learndatasci.com/best-machine-learning-courses)
 - Book: Machine Learning For Absolute Beginners (2018) | Author: Oliver Theobald
 - Book: The Elements Of Statistical Learning: Data Mining, Inference and Prediction 
+
